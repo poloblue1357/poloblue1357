@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on a site for my brother's book.
 - 🌱 I’m currently learning Tailwind.
 - 💬 Ask me about my internal site I created for a mortgage company.
-- 📫 How to reach me: danpattersonportfolio.com/ or linkedin.com/in/patterson-dan/
+- 📫 How to reach me: danpattersonportfolio.com or linkedin.com/in/patterson-dan
 - ⚡ Fun fact: I love learning and new experiences!
