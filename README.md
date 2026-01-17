@@ -1,5 +1,4 @@
-- 🔭 I’m currently working on a site for my brother's book.
-- 🌱 I’m currently learning Tailwind and TypeScript.
+- 🔭 I’m currently working on a weather app.
 - 💬 Ask me about my internal site I created for a mortgage company.
 - 📫 How to reach me: danpattersonportfolio.com or linkedin.com/in/patterson-dan
 - ⚡ Fun fact: I love learning, new experiences, and skydiving!
