@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a weather app.
+- 🔭 I’m currently working on a mobile weather app.
 - 💬 Ask me about my internal site I created for a mortgage company.
 - 📫 How to reach me: danpattersonportfolio.com or linkedin.com/in/patterson-dan
-- ⚡ Fun fact: I love learning, new experiences, and skydiving!
+- ⚡ Fun fact: I love learning, mountain biking, and skydiving!
