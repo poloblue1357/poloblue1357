@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a mobile weather app.
-- 💬 Ask me about my internal site I created for a mortgage company.
-- 📫 How to reach me: danpattersonportfolio.com or linkedin.com/in/patterson-dan
+- 🔭 Building ExitWX — a full-stack mobile-first weather app for skydivers.
+- 💬 Ask me about React, Node.js, MongoDB, and API integration.
+- 📫 Reach me: https://danpattersonportfolio.com | linkedin.com/in/patterson-dan
 - ⚡ Fun fact: I love learning, mountain biking, and skydiving!
