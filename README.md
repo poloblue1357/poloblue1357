@@ -1,4 +1,4 @@
 - 🔭 Building ExitWX — a full-stack mobile-first weather app for skydivers.
 - 💬 Ask me about React, Node.js, MongoDB, and API integration.
-- 📫 Reach me: https://danpattersonportfolio.com | https://www.linkedin.com/in/patterson-dan
+- 📫 Reach me: https://danpatterson.dev | https://www.linkedin.com/in/patterson-dan
 - ⚡ Fun fact: I love learning, mountain biking, and skydiving!
